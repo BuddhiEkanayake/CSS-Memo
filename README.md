@@ -7,10 +7,10 @@ This section explains the purpose of my journey: to memorize and master CSS conc
 # Course Outline
 A brief outline of the course sections:
 
-1.Introduction to CSS
-2.Selectors and Styling
-3.Layouts (Flexbox, Grid)
-4.Responsive Design
-5.Advanced Techniques
-6.Animations and Transitions
-7.I'll update this section as I progress through each module.
+1. Introduction to CSS
+2. Selectors and Styling
+3. Layouts (Flexbox, Grid)
+4. Responsive Design
+5. Advanced Techniques
+6. Animations and Transitions
+I'll update this section as I progress through each module.
