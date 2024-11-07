@@ -1,13 +1,21 @@
-.dev{
-    background:  orange;
-}
 
-section{
+
+/*section{
     background:  #38bedf;
+    font-family: "Sofia", sans-serif;
     
 }
 
 h1{
     color: #fff;
     font-family: sans-serif;
-}
+}*/
+
+#get-start{
+    color: chocolate; 
+ }
+ 
+ .style-one{
+     color: chartreuse;
+ 
+ }
