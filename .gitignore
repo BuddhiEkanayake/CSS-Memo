@@ -11,3 +11,4 @@ build/
 
 # Ignore environment files (if any)
 .env
+.vscode/launch.json
